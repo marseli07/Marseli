@@ -1,0 +1,47 @@
+/* tag selektori */
+h1{
+    background-color: rgb(253, 8, 8);
+   width: 200px;
+   text-align: center;
+   margin-left: 370px;
+   font-family: fantasy;
+    }
+/*universal slektor*/
+*{
+    background-color: aqua;
+   
+}
+/*id selektor*/
+#p1{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+#p2{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    f
+}
+/*class selektor*/
+.para{
+    background-color: rgb(21, 221, 155);
+    color: rgb(204, 24, 24);
+    text-align: center;
+}
+/*descending selektor*/
+div p{
+    background-color: aquamarine;
+    color: blue;
+    font-size: 22px;
+}
+/*Child selektor*/
+div>h1{
+    background-color: brown;
+    color: burlywood;
+    font-size: 22px;
+}
+h1,h2,button{
+    background-color: brown;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    background-image: url(usa.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 200px 200px; */
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+#div1{
+    border: 1px solid black;
+    width: 400px;
+    height: 278px;
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
